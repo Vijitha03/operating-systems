@@ -41,6 +41,26 @@
 ![image](https://user-images.githubusercontent.com/113349410/216844520-0d5322e6-1128-49a2-8827-fcd8479dac3b.png)
 ###  unix 
 ![image](https://user-images.githubusercontent.com/113349410/216845111-e7591632-54e8-42b3-8f66-7a205be053d8.png)
+### system calls
+![image](https://user-images.githubusercontent.com/113349410/216845381-68348b08-f53f-4a16-bd53-1ce76b90456e.png)
+### thread concepts
+![image](https://user-images.githubusercontent.com/113349410/216845603-6742e227-d4e1-464c-a00a-a20091de88ca.png)
+### first in first out
+![image](https://user-images.githubusercontent.com/113349410/216845928-8d82a3b1-601a-43fb-afae-9579a3463540.png)
+### least recently used
+![image](https://user-images.githubusercontent.com/113349410/216845895-b8dfeee8-d488-4a08-a0c6-5b624c1d8be0.png)
+### optimal 
+![image](https://user-images.githubusercontent.com/113349410/216845997-0c8af289-1916-490a-b158-aa0cbf381f59.png)
+### scan 
+![image](https://user-images.githubusercontent.com/113349410/216846063-2df10035-222b-4bb8-b31a-6eccad733793.png)
+### c-scan
+![image](https://user-images.githubusercontent.com/113349410/216846225-64eac236-9587-458e-b840-690faf3cf210.png)
+### file allocation strategy
+![image](https://user-images.githubusercontent.com/113349410/216846369-b0fd10f7-e119-457f-8da1-32ab5f60bdbb.png)
+### first come first serve
+![image](https://user-images.githubusercontent.com/113349410/216846438-8c341803-2250-4f92-8fc1-4294ec66d727.png)
+### Linux
+![image](https://user-images.githubusercontent.com/113349410/216846488-de807921-b5e8-4416-a5e8-a2aa8a47929d.png)
 
 
 
