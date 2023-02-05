@@ -12,7 +12,7 @@
 ![image](https://user-images.githubusercontent.com/113349410/216842628-2a0c64b3-d586-445c-b929-e85bc4874e7a.png)
 ### robin round scheduling algorithm
 
-### ### shared memory
+###shared memory
 ![image](https://user-images.githubusercontent.com/113349410/216841818-a82c0609-e876-463a-a51c-7e3fa44d2b8d.png)
 ### Message queue
 ![image](https://user-images.githubusercontent.com/113349410/216841882-bd8dd441-2075-49d1-b405-1a34cf5263ab.png)
